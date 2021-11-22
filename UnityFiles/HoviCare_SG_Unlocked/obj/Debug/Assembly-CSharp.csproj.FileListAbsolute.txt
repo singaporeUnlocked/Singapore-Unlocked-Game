@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Capstone\Singapore-Unlocked\UnityFiles\HoviCare_SG_Unlocked\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Capstone\Singapore-Unlocked\UnityFiles\HoviCare_SG_Unlocked\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
