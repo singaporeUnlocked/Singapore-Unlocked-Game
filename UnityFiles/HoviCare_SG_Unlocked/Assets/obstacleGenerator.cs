@@ -25,6 +25,6 @@ public class obstacleGenerator : MonoBehaviour
     {
         float minimum = floor.transform.position.x - floor.GetComponent<BoxCollider>().bounds.size.x / 2 + obstaclePrefab.GetComponent<BoxCollider>().bounds.size.x/2;
         float max = floor.transform.position.x + floor.GetComponent<BoxCollider>().bounds.size.x / 2 - obstaclePrefab.GetComponent<BoxCollider>().bounds.size.x / 2;
-        Instantiate(obstaclePrefab, new Vector3(Random.Range(minimum, max), 0, player.transform.position.z + 5), Quaternion.identity);
+        Instantiate(obstaclePrefab, new Vector3(Random.Range(minimum, max), 0, player.transform.position.z + 20), Quaternion.identity);
     }
 }
